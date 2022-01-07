@@ -1,5 +1,5 @@
-import { CAMPSITES } from '../shared/campsites (1)';
-import { COMMENTS } from '../shared/camsites';
+import { CAMPSITES } from '../shared/campsites';
+import { COMMENTS } from '../shared/comments';
 import { PARTNERS } from '../shared/partners';
 import { PROMOTIONS } from '../shared/promotions';
 
